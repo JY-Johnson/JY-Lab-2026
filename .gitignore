@@ -1,0 +1,4 @@
+c/.continue/
+*.exe
+.vscode/
+*.code-workspace
